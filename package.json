@@ -50,7 +50,6 @@
     ]
   },
   "devDependencies": {
-    "cypress-metamask-plugin": "^1.0.8-beta",
     "react-router-dom": "^6.3.0"
   }
 }
